@@ -1,0 +1,193 @@
+body {
+	font-family: 'roboto slab', serif;
+	text-transform: uppercase;
+	text-align: justify;
+	margin: 20px;
+	padding: 20px;
+	width: 400px;
+	overflow: auto;
+}
+
+.emphasis-1 {
+	font-size: 28px;
+	padding: 0px 10px 5px 0px;
+}
+
+.life {
+	font-size: 80px;
+	float: right;
+	padding: 0px 0px 0px 0px;
+	width: 40%;
+	margin-right: 28px;
+	line-height: 80px;
+}
+
+.dowhat {
+	font-size: 20px;
+	line-height: 15px;
+	padding: 0px 8px 0px 0px
+}
+
+.anddo {
+	font-size: 23px;
+	line-height: 30px;
+	padding: 0px 5px 0px 0px;
+}
+
+.ifyou {
+	font-size: 17px;
+	line-height: 15px;
+	word-spacing: 6px;
+}
+
+.ifyoudont {
+	font-size: 21px;
+	word-spacing: 6px;
+}
+
+.tvquit {
+	font-size: 13px;
+	word-spacing: 5.5px;
+	line-height: 15px;
+}
+
+.loveoflife {
+	font-size: 13px;
+	line-height: 15px;
+	word-spacing: 3.5px;
+}
+
+.theywill {
+	font-size: 18px;
+	font-style: bold;
+}
+
+.startdoing {
+	font-size: 24px;
+	line-height: 22px;
+}
+
+.stop {
+	font-size: 18px;
+	float: left;
+}
+
+.lifeissimple {
+	font-size: 28.5px;
+	font-style: bold;
+	line-height: 27px;
+	float: left;
+	clear: both;
+}
+
+.allemotions {
+	font-size: 11px;
+	padding-left: 5px;
+	word-spacing: 3px;
+}
+
+.whenyoueat {
+	font-size: 12px;
+	word-spacing: 4px;
+}
+
+.lastbite {
+	font-size: 19px;
+	line-height: 20px;
+}	
+
+.open {
+	font-size: 15px;
+	padding: 0px 0px 5px 0px;
+}
+
+.andpeople {
+	font-size: 15px;
+	line-height: 15px;
+	word-spacing: 2px;
+}
+
+.ask {
+	font-size: 14px;
+}
+
+.andshareyour {
+	font-size: 15px;
+	word-spacing: 5px;
+	line-height: 14px;
+}
+
+.travel {
+	font-size: 29px;
+	line-height: 32px;
+	padding: 0px 8px 0px 0px;
+	float: left;
+	clear: both;
+}
+
+.gettinglost {
+	font-size: 16px;
+	word-spacing: 3px;
+	padding: 0px 0px 0px 5px;
+}
+
+.helpyou {
+	font-size: 12px;
+	padding: 0px 0px 0px 5px;
+	line-height: 11px;
+}
+
+.some {
+	font-size: 14px;
+	word-spacing: 4px;
+}
+
+.lifeisabout {
+	font-size: 17px;
+	word-spacing: 5px;
+	line-height: 15px;
+}
+
+.thethings {
+	font-size: 20px;
+	word-spacing: 4.5px;
+	padding: 2px 0px 0px 0px
+}
+
+.sogoout {
+	font-size: 23px;
+	word-spacing: 3px;
+	line-height: 20px;
+}
+
+.lifeis {
+	font-size: 50px;
+	float: left;
+	padding: 0px 5px 0px 0px;
+	line-height: 45px;
+}
+
+.short {
+	font-size: 50px;
+	float: left;
+	clear: both;
+	padding: 0px 5px 0px 0px;
+	line-height: 45px;
+}
+
+.liveyourdream {
+	font-size: 22px;
+	padding: 20px 0px 0px 5px;
+}
+
+.andshare {
+	font-size: 34px;
+	line-height: 25px;
+	padding: 0px 0px 0px 3px;
+}
+
+.yourpassion {
+	font-size: 29px;
+	line-height: 28px;
+	padding: 0px 0px 0px 1px;
+}
